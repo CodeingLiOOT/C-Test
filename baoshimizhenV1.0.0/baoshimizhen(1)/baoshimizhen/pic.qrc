@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>background.bmp</file>
+        <file>clock.png</file>
+        <file>relax.png</file>
+        <file>continue.bmp</file>
+        <file>1.png</file>
+        <file>2.png</file>
+        <file>3.png</file>
+        <file>4.png</file>
+        <file>5.png</file>
+        <file>6.png</file>
+        <file>7.png</file>
+        <file>0.png</file>
+        <file>a.png</file>
+        <file>b.png</file>
+        <file>background2.jpg</file>
+        <file>c.png</file>
+        <file>d.png</file>
+        <file>e.png</file>
+        <file>f.png</file>
+        <file>g.png</file>
+        <file>fdj.jpg</file>
+        <file>sx.jpg</file>
+        <file>zd.jpg</file>
+    </qresource>
+</RCC>
